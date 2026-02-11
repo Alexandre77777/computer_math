@@ -2,7 +2,7 @@
 
 В данном репозитории представлен перечень материалов по предмету **"Системы компьютерной математики"** для студентов групп **ФГиИБ-2021-ФГиИБ-ПИ-1б**, **ФГиИБ-2021-ФГиИБ-ПИ-2б**.
 
-[Статистика выполнения работ **ФГиИБ-2022-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/16y4igDGDjGtmPh7Hy1Uf_fAdXH2H2WPu5FQD_IpOh1M/edit?usp=sharing)
+[Статистика выполнения работ **ФГиИБ-2023-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/1pyurkMjftlyoCm9ouYOaCznE4KsYFb3fXyPKyGOidkE/edit?gid=1533910966#gid=1533910966)
 
 [Дополнительная литература](https://cloud.mail.ru/public/veX3/Aasf7g7U8)
 
