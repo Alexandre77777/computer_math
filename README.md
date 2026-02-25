@@ -11,7 +11,7 @@
 | 1   | 12.02.2025 | [Теория №1. Модуль math](https://u.to/snYkIg)      | [Практическая работа №1. Модуль math](https://u.to/zHYkIg)   |
 | 2   | 19.02.2025 | [Теория №2. Библиотека NumPy](https://colab.research.google.com/drive/1zx8MgUwPHou04SwUlKg0LQuBl55I9E3L?usp=sharing)      | [Практическая работа №2. Библиотека NumPy](https://u.to/63YkIg)   |
 |     |            | [Доп. Теория: База по NumPy](https://u.to/_3YkIg)  | |
-| 3   | 26.02.2025 | [Теория №3. Библиотеки Matplotlib, Plotly](https://u.to/C3ckIg)      | [Практическая работа №3. Matplotlib. Plotly.](https://u.to/FnckIg)   |
+| 3   | 26.02.2025 | [Теория №3. Библиотеки Matplotlib, Plotly](https://colab.research.google.com/drive/1Ch4KnWSF2gmJNmOuYl2_PCSNr9yrl4O-?usp=sharing)      | [Практическая работа №3. Matplotlib. Plotly.](https://u.to/FnckIg)   |
 | 4   | 05.03.2025 | [Теория №4. Библиотека Pandas](https://u.to/7sMWIQ)      | [Практическая работа №4. Библиотека Pandas](https://u.to/N3ckIg)   |
 | 5   | 12.03.2025 | [Теория №5. Работа с Excel-таблицами в Python](https://u.to/j3kkIg)      | [Практическая работа №5. Формирование электронных таблиц. Многопоточная и многопроцессорная оптимизация. Работа с генераторами](https://u.to/RHokIg)   |
 | 6   | 19.03.2025 | [Теория №6. Библиотека SymPy](https://u.to/lJotIg)      | [Практическая работа №6. Библиотека SymPy](https://u.to/xZotIg)   |
